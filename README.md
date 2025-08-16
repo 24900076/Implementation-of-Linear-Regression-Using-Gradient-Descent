@@ -23,6 +23,8 @@ Program to implement the linear regression using gradient descent.
 Developed by: SAI PRASATH.P
 RegisterNumber: 212224230238
 */
+```
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
